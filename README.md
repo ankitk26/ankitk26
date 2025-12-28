@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ankit Kumar
+# Hi there, I'm Ankit
 
 **Full-stack developer working on web applications. Building things that solve problems and exploring new technologies along the way.**
 
