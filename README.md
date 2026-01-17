@@ -35,15 +35,15 @@
 
 ## Featured Projects
 
-- **os-chat** - AI chatbot supporting multiple providers with real-time messaging. Built with TanStack Start, Convex, and Vercel AI SDK. | [Repo](https://github.com/ankitk26/os-chat) | [Demo](https://oschat.app)
+- **os-chat** - AI chatbot supporting multiple providers with real-time messaging. Built with **TanStack Start**, **Convex**, and **Vercel AI SDK**. | [Repo](https://github.com/ankitk26/os-chat) | [Demo](https://oschat.app)
 
-- **betterlist** - Spotify playlist management tool for organizing and sorting music. Built with TanStack Start, TanStack Router, Drizzle ORM, Neon Postgres, Better Auth, and ShadCN UI. | [Repo](https://github.com/ankitk26/betterlist) | [Demo](https://betterlist.netlify.app)
+- **betterlist** - Spotify playlist management tool for organizing and sorting music. Built with **TanStack Start**, **TanStack Router**, **Drizzle ORM**, **Neon Postgres**, **Better Auth**, and **ShadCN UI**. | [Repo](https://github.com/ankitk26/betterlist) | [Demo](https://betterlist.netlify.app)
 
-- **next-spotify-app-router** - Enhanced Spotify clone with modern UI for browsing content. Built with Next.js, React, TailwindCSS, and Better Auth. | [Repo](https://github.com/ankitk26/next-spotify-v2) | [Demo](https://next-spotify-smoky-v2.vercel.app)
+- **next-spotify-app-router** - Enhanced Spotify clone with modern UI for browsing content. Built with **Next.js**, **React**, **TailwindCSS**, and **Better Auth**. | [Repo](https://github.com/ankitk26/next-spotify-v2) | [Demo](https://next-spotify-smoky-v2.vercel.app)
 
-- **epilog** - Platform to track shows and books in one place using TMDB and Jikan APIs. Built with TanStack Start, Convex, TypeScript, ShadCN UI, and Better Auth. | [Repo](https://github.com/ankitk26/epilog) | [Demo](https://epilog.vercel.app)
+- **epilog** - Platform to track shows and books in one place using TMDB and Jikan APIs. Built with **TanStack Start**, **Convex**, **TypeScript**, **ShadCN UI**, and **Better Auth**. | [Repo](https://github.com/ankitk26/epilog) | [Demo](https://epilog.vercel.app)
 
-- **iledge** - Financial ledger application for managing expenses and income with analytics. Built with TanStack ecosystem, React, and TypeScript. | [Repo](https://github.com/ankitk26/iledge-tanstack) | [Demo](https://iledge.vercel.app)
+- **iledge** - Financial ledger application for managing expenses and income with analytics. Built with **TanStack ecosystem**, **React**, and **TypeScript**. | [Repo](https://github.com/ankitk26/iledge-tanstack) | [Demo](https://iledge.vercel.app)
 
 </div>
 
